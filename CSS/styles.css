@@ -12,7 +12,7 @@ a{
 p{
     font-size: 23px;
     font-weight: 400;
-    color: rgba(0, 0, 0,0.4)}
+    color: rgba(0, 0, 0,0.4);}
 
 .wrapper{
     width: 940px;
@@ -36,7 +36,6 @@ header div img{
     padding-left: 22px;}
 
 .orange_1{
-    height: 421px;
     background-color: #FAC960;
     padding-top: 102px;}
 
@@ -52,7 +51,8 @@ main div form input{
     height: 54px;
     width: 560px;
     font-size: 30px;
-    border: 0px;}
+    border: 0px;
+    margin-bottom: 117px;}
 
 #email_submit_button{
     color: #ffffff;
@@ -70,7 +70,6 @@ main div form input{
     border: 0px;}
 
 .grey_2{
-    height: 438px;
     background-color: #F2F2F2;
     padding-top: 77px;}
 
